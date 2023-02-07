@@ -1,6 +1,11 @@
 # bankist
 
-Banking websites are designed with security and privacy as top priorities to safeguard sensitive financial information of customers. The website offers a range of services such as checking account balances, transferring funds, paying bills, and viewing transaction history, as well as providing information about the bank's products and services and access to customer support. The website has a user-friendly interface that allows customers to easily find what they need and navigate the site. The landing page serves as the main entry point and features the bank's branding elements, such as logo and slogan, along with promotions and quick links to popular services and a login area for existing customers.
+Welcome to the Bankist repository! This is the source code for the Bankist website, a financial service that offers 100% smooth transactions. With Bankist, customers can enjoy a seamless, effortless, and worry-free experience when it comes to managing their finances.
 
+The website is built using modern web technologies and is optimized for a fast and responsive user experience. The codebase is well-organized and easy to navigate, making it simple for developers to contribute to the project.
+
+If you're interested in improving the site or adding new features, we welcome contributions and pull requests. Join us in making Bankist the go-to solution for anyone looking to manage their finances with ease.
+
+Thanks for checking out the Bankist repository, and we look forward to your contributions!
 
 view page at https://unnamedka1.github.io/bankist/?#
