@@ -8,4 +8,4 @@ If you're interested in improving the site or adding new features, we welcome co
 
 Thanks for checking out the Bankist repository, and we look forward to your contributions!
 
-view page at https://unnamedka1.github.io/bankist/?#
+view page at https://kanishkka1.github.io/bankist/
